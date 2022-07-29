@@ -5,8 +5,7 @@
                 $gallery_instgram : $('#wi-gallery .gallery')
             },
             vars : {
-            	tokenInstgram : '1433144551.dc99cae.70cbfa0152ce46e0aeec544925e9bbf9',
-            	//2102653546
+            	tokenInstgram : '',
             	userIdInstgram : 1433144551,
             	numPhotos : 7
             },
